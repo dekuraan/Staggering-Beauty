@@ -13,12 +13,12 @@ body {
   overflow: hidden;
   height: 100%;
 
-  background-color: rgb(255,229,237);
-  background-image: -o-linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,233) 100%);
+  background-color: rgb(255,229,247);
+  background-image: -o-linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,293) 100%);
   background-image: -moz-linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,233) 100%);
   background-image: -webkit-linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,233) 100%);
-  background-image: -ms-linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,233) 100%);
-  background-image: linear-gradient(bottom, rgb(255,229,237) 0%, rgb(224,255,233) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(255,209,237) 0%, rgb(224,255,233) 100%);
+  background-image: linear-gradient(bottom, rgb(255,929,237) 0%, rgb(224,255,233) 100%);
 
 }
 
@@ -134,7 +134,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.7);
   z-index: 4;
   display: none;
 }
